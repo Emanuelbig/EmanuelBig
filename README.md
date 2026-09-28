@@ -2,7 +2,7 @@
 
 **Product Designer** (industrial + UX/UI) I love learning to **build what I design**.
 
-Seven-plus years shaping products end-to-end — from sketches and CAD to Figma — and now writing the software side of the things I used to only draw. I'm studying Applied Informatics at INSPT (UTN), and my goal is the overlap most people don't cover: designing an interface *and* shipping it.
+Seven-plus years shaping products end-to-end. Materializing ideas from sketches and CAD to Figma and now writing the software side of the things I used to only draw. I'm studying Applied Informatics at INSPT (UTN), and my goal is the overlap most people don't cover: designing an interface *and* shipping it.
 
 ### Currently
 - 🧩 Product Designer @ Ferrazzi
